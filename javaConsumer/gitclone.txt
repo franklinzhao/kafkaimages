@@ -1,0 +1,8 @@
+https://github.com/howtoprogram/Kafka-MultiThread-Java-Example.git
+
+https://github.com/linhkikuchi/kafka-producer-consumer-java-example.git
+
+https://github.com/shinkou/kafkaexamples.git
+
+Java examples in real world.
+https://github.com/RameshMF/springboot-kafka-course.git
